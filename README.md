@@ -11,3 +11,11 @@ git remote -v (to check remote origins)
 git remote add name <url>(to add new remote)
 git remote rename name new_name
 git remote remove name
+
+git tag (adds temporary tag)
+git tag -a name (adds annotated tag, need GPL licence)
+git tag -l (lists tags)
+git tag -a v1.2 9fceb02 (tags the 1.2 version later, first 8 numbers of your commit)
+git tag -d version (deltes the tag with that version)
+
+git config -- global alias.test commit (adds shortcut when using commit, typing  git test will trigger git commit).
