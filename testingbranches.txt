@@ -1,0 +1,4 @@
+Exercise:
+trying to hotfix a bug that occured in main, creating new branch -> fixing the bug -> merge it into main -> delete the branch -> switch to newbranch and continue with the work -> finish the work and merge newbranch to main
+
+Extra: make conflict between and try to solve it
