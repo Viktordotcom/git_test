@@ -1,0 +1,4 @@
+git 2.23 onwards you can use git switch instead of git checkout
+git switch -c new-branch (to create new branch)
+git switch remote-branch-name (to create local branch of the remote one and track it)
+
