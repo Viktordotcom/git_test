@@ -1,4 +1,11 @@
+
 Exercise:
 trying to hotfix a bug that occured in main, creating new branch -> fixing the bug -> merge it into main -> delete the branch -> switch to newbranch and continue with the work -> finish the work and merge newbranch to main
 
 Extra: make conflict between and try to solve it
+
+git 2.23 onwards you can use git switch instead of git checkout
+git switch -c new-branch (to create new branch)
+git switch remote-branch-name (to create local branch of the remote one and track it)
+
+
